@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">CEM Instituto Tecnico Superior</title>
+  <desc id="desc">Wordmark with CEM in dark red, four cyan vertical blocks, and Instituto Tecnico Superior in dark red.</desc>
+  <rect width="1200" height="220" fill="none"/>
+  <g fill="#8f1d2c">
+    <text x="20" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="190" letter-spacing="-8">CEM</text>
+  </g>
+  <g>
+    <rect x="470" y="6" width="38" height="38" rx="2" fill="#8dc7da"/>
+    <rect x="470" y="56" width="38" height="38" rx="2" fill="#6bc2d8"/>
+    <rect x="470" y="106" width="38" height="38" rx="2" fill="#36afc9"/>
+    <rect x="470" y="156" width="38" height="38" rx="2" fill="#1098bc"/>
+  </g>
+  <g fill="#8f1d2c">
+    <text x="580" y="82" font-family="'Trebuchet MS', Arial, sans-serif" font-size="78" font-weight="300">Instituto Tecnico</text>
+    <text x="580" y="176" font-family="'Trebuchet MS', Arial, sans-serif" font-size="78" font-weight="300">Superior</text>
+  </g>
+</svg>
